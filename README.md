@@ -1,16 +1,15 @@
-# cobras_escadas
+# Seleção de Desenvolvedor de Software - Escribo
 
-A new Flutter project.
+Teste técnico 02
 
-## Getting Started
+## Instruções de uso
 
-This project is a starting point for a Flutter application.
+Para executar este projeto, você precisa de:
 
-A few resources to get you started if this is your first Flutter project:
+- Ter o Flutter instalado na sua máquina. Siga esse [tutorial](https://docs.flutter.dev/get-started/install) para instalar.
+- Ter de preferencia o *Visual Studio Code* em sua máquina configurado. Voce pode ver como configura [clicando aqui](https://docs.flutter.dev/get-started/editor?tab=vscode).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Caso opte pelo Visual Studio Code, o processo de execução do aplicativo funcionará através de ir no arquivo *pubspec.yaml* e dar um *CTRL+S* isso fará o Get Packages,
+ mas você pode abrir um terminal e digitar *flutter pub get* que terá o mesmo efeito. Em seguida é só dar um *F5* ou um *flutter run* no terminal que o projeto será executado.</br> 
+Caso escolha rodar o projeto via linha de comandos, utilize os comandos: *flutter pub get* e *flutter run*. Lembre-se de antes de executar o comando de navegar até a pasta do projeto antes.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
